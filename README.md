@@ -1,4 +1,4 @@
-# Community detection with Graph Attention Network
+# Community Detection with Graph Attention Network
 
 GAT与Louvain进行用户关系选择性增强的社区发现算法。
 
