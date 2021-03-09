@@ -11,3 +11,4 @@ User relation reinforcement Community detection. The relation between users are 
 - pandas 1.1.5
 - tensorflow 2.4.0
 - networkx 2.5
+- python-louvain 0.15
